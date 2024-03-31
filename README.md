@@ -8,7 +8,8 @@ The goal of this project is to perform data analytics on Uber data using various
 <img src="architecture.jpg">
 
 ## Technology Used
-- Programming Language - Python
+- Programming Language - Python(Pandas)
+-SQL 
 
 Google Cloud Platform
 1. Google Storage
