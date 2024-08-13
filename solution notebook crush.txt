@@ -1,0 +1,9 @@
+Restart the Kernel: Go to the Kernel menu and select "Restart." This often resolves temporary issues.
+
+Check Your Code: Look for potential infinite loops or memory-intensive operations. Consider breaking your code into smaller chunks to identify where the issue occurs.
+
+Monitor System Resources: Use system monitoring tools (like Task Manager on Windows or Activity Monitor on macOS) to check memory and CPU usage when the notebook runs.
+
+Simplify Your Code: If you’re loading large datasets or models, try reducing the size or complexity temporarily to see if the crash still occurs.
+
+Update or Reinstall Libraries: Make sure all libraries and dependencies are up-to-date. You can try reinstalling them if you suspect corruption.
